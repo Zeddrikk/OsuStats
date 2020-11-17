@@ -312,4 +312,4 @@ async def osu(context,uName : str):
 
 #run on server
 
-client.run("NDc2ODI4OTgyMjg1OTU5MTg5.W2s_mA.X9LjRxmfxvts-q0M885zuPT16aw")
+client.run("NNDc2ODI4OTgyMjg1OTU5MTg5.W2s_mA.6FWONjTrBdBVbDh-KtMkHeon068")
